@@ -50,6 +50,7 @@ rsconnect/
 
 # xlsx files
 online_retail.xlsx
+rules.csv
 
 # virtualenv
 *.venv
